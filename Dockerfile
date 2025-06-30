@@ -1,6 +1,6 @@
 FROM centos:centos7
 
-MAINTAINER morningstar
+MAINTAINER myadmin
 
 RUN yum -y install httpd wget
 
